@@ -2,5 +2,5 @@
 Introduction to NoSQL
 
 Contributors
-Professor Krasso
+Professor Krasso - 
 Laurie Mailloux
