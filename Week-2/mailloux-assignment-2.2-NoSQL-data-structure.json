@@ -1,0 +1,33 @@
+{
+    "Customer": {
+        "_id": 101,
+        "first_name": "Brad",
+        "last_name": "Hopps",
+        "date_of_birth": "03-22-1971",
+        "user_name": "bhopps71",
+
+    "invoice": [
+        {
+            _"_id": 1001,
+            "date_created": "04-01-2020",
+            "date_shipped": "04-05-2020",
+            "subtotal": "40",
+            "tax": "2.8",
+            "total": "42.8",
+           
+    "line_items": [
+        {
+            "_id": 001,
+            "name": "silver watch",
+            "price": "25",
+            "quanity": "1",
+        },
+        {
+            "_id": 020,
+            "name": "black tie",
+            "price": "15",
+            "quanity": "1"
+        }]
+        }]
+        }
+}
