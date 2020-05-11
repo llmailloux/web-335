@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "_id": 100,
+            "first_name": "Timbo",
+            "last_name": "Green",
+            "mi": "V",
+            "classes": [
+                {
+                    "_id": 101,
+                    "name": "Spanish",
+                    "enrolled":[
+                        {
+                            "_id": "47960",
+                            "grade": "A"
+                        }
+                    ]
+                }
+            ]
+              }   
+            ]
+        }            
