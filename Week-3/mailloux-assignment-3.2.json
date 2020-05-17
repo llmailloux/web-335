@@ -1,0 +1,40 @@
+{ 
+    "User":[
+ {
+     "_id": 001,
+     "first_name": "Carey",
+     "last_name": "Black",
+     "Link_User_Role": [
+        { "Role": [
+            "Assistant Manager",
+            { "Link_Role_Permission": [
+                    "ADMIN"
+                ]
+            },
+
+            {
+                "Permission": [
+                    "ADMIN"
+                ]
+            }]
+        }]},
+
+ {
+    "_id": 002,
+    "first_name":"Colton",
+    "last_name": "Brown",
+    "Link_User_Role":[
+        {
+            "Role":[
+                "USER",
+                {"Link_Role_Permission":[
+                        "READ"
+                    ]
+                },
+                {
+                    "Permission": [
+                        "READ"
+                    ]
+                }]
+        }]}
+]}
